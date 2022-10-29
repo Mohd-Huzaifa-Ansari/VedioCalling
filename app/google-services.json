@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658858557102",
+    "project_id": "vedio-calling-c0678",
+    "storage_bucket": "vedio-calling-c0678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658858557102:android:558949cdf0846a3e5ff73f",
+        "android_client_info": {
+          "package_name": "com.huzaifa.vediocalling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658858557102-j70gg26ctu3lf9j07rk8d9uq43p4jdue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdWaNdnpFjA5p6p8UFBsKCM4j8MHyek2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658858557102-j70gg26ctu3lf9j07rk8d9uq43p4jdue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
